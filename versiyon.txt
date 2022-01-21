@@ -1,0 +1,6 @@
+proje 3 güncellemede oluşmaktadır.
+her güncellemede yeni kodlar ile istenen şekil verilmekydi.
+1. verisyon database üzerine ve arayüz oluşturulma oldu
+2. versiyon excel çıktıları ve arayüzü çalıştıma üzerine 
+3. versiyon tüm kodların birleştirilmesi üzerine oldu
+ 
